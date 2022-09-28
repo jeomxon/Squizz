@@ -1,0 +1,2 @@
+# Squizz
+private term project
