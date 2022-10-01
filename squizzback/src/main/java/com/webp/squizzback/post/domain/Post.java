@@ -25,5 +25,6 @@ public class Post {
     private int numOfQuestion;
     private LocalDateTime pubDate;
     private DifficultyType difficultyType;
+    private boolean isSolved;
 
 }
