@@ -1,7 +1,5 @@
 package com.webp.squizzback.question.domain;
 
-import lombok.Getter;
-
 import javax.persistence.*;
 
 @Entity
