@@ -9,6 +9,7 @@ import javax.persistence.Id;
 @Entity
 @Getter
 public class Member {
+
     @Id
     @Column(name = "member_id")
     private String id;
@@ -17,4 +18,5 @@ public class Member {
     private String password;
 
     private String nickname;
+    private int totalScore;
 }
